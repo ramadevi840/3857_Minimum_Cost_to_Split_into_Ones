@@ -1,0 +1,2 @@
+# 3857_Minimum_Cost_to_Split_into_Ones
+You are given an integer n.  In one operation, you may split an integer x into two positive integers a and b such that a + b = x.  The cost of this operation is a * b.  Return an integer denoting the minimum total cost required to split the integer n into n ones.   
